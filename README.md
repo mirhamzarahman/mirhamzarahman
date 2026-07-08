@@ -1,16 +1,216 @@
-## Hi there 👋
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Technical Lead at <a href="#">######
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**mirhamzarahman/mirhamzarahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-Here are some ideas to get you started:
+### 📫 Like to meet me?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx anmol
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+  name: "Anmol Pratap Singh",
+  pronouns: ["he", "him"],
+  languages: ["TypeScript", "JavaScript", "Python", "Dart"],
+  askMeAbout: [
+    "web development",
+    "mobile app development",
+    "cloud architecture",
+    "generative AI",
+    "agentic systems",
+    "SaaS products",
+    "system design"
+  ],
+
+  technologies: {
+    frontend: {
+      frameworks: ["React", "Next.js"],
+      styling: ["Tailwind CSS", "Sass", "Bootstrap"],
+      uiLibraries: [
+        "Material UI",
+        "Ant Design",
+        "Chakra UI",
+        "shadcn/ui"
+      ]
+    },
+
+    backend: {
+      node: ["Node.js", "Express", "NestJS"],
+      python: ["Flask"]
+    },
+
+    mobile: {
+      crossPlatform: ["Flutter"]
+    },
+
+    devOps: {
+      tools: ["Docker", "GitHub Actions", "Nginx"],
+      practices: ["CI/CD", "Infrastructure as Code"]
+    },
+
+    cloud: {
+      aws: [
+        "EC2",
+        "S3",
+        "RDS",
+        "Lambda",
+        "Fargate",
+        "CloudWatch"
+      ],
+      gcp: [
+        "Compute Engine",
+        "Cloud Run",
+        "Cloud Functions",
+        "Cloud Storage",
+        "Firestore",
+        "BigQuery"
+      ]
+    },
+
+    databases: {
+      relational: ["PostgreSQL"],
+      nosql: ["MongoDB", "Firebase Realtime DB", "Firestore"],
+      inMemory: ["Redis"]
+    },
+
+    realtimeAndAPIs: [
+      "REST APIs",
+      "WebSockets",
+      "Socket.IO"
+    ],
+
+    ai: {
+      generativeAI: [
+        "LLM integration",
+        "Prompt engineering",
+        "Vector databases",
+        "AI agents",
+        "Workflow automation"
+      ],
+      architectures: [
+        "agentic architecture",
+        "tool-augmented agents",
+        "multi-agent systems"
+      ],
+      models: ["OpenAI", "Gemini", "Llama"]
+    }
+  },
+
+  architecture: {
+    frontend: ["SPA", "SSR"],
+    backend: ["monolith", "microservices", "serverless"],
+    cloudPatterns: [
+      "event-driven",
+      "agentic systems",
+      "scalable SaaS"
+    ],
+    data: ["relational", "nosql", "in-memory"]
+  },
+currentFocus:"Building scalable AI-first SaaS products with agentic architectures",
+funFact: "Most bugs disappear after a coffee and a clean commit history"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C366%20hrs%2022%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-448-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.63%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 391.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 761 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 33 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2367 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+🌆 Daytime                4643 commits        ████████░░░░░░░░░░░░░░░░░   33.38 % 
+🌃 Evening                4808 commits        █████████░░░░░░░░░░░░░░░░   34.57 % 
+🌙 Night                  2090 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1632 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Tuesday                  2002 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Wednesday                2011 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Thursday                 1611 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Friday                   1478 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Saturday                 2052 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Sunday                   3122 commits        ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+TypeScript               2 hrs 40 mins       ████████████████░░░░░░░░░   62.21 % 
+Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+JavaScript               27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Text                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+
+🔥 Editors: 
+Claude Code              3 hrs 44 mins       ██████████████████████░░░   86.94 % 
+WebStorm                 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+
+💻 Operating System: 
+Mac                      4 hrs 18 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   35.87 % 
+TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+```
+
+
+
+
+ Last Updated on 08/07/2026 03:56:35 UTC
+<!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
